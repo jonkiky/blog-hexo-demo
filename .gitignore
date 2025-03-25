@@ -1,0 +1,28 @@
+# Hexo generated files
+public/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Hexo configuration cache
+db.json
+
+# Local environment settings
+.env
+.DS_Store
+Thumbs.db
+
+# Hexo static files (optional, if you regenerate them)
+*.log
+*.bak
+*.swp
+
+# VSCode settings (optional)
+.vscode/
+
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+
+# MacOS system files
+.DS_Store
